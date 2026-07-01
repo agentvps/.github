@@ -1,4 +1,5 @@
 # AgentVPS
+<img width="1200" height="630" alt="Screenshot 2026-07-01 122138" src="https://github.com/user-attachments/assets/1c10b4f9-64af-41a0-8a8f-8cff101f5de3" />
 
 ### The AI-Native VPS Platform
 
